@@ -1,0 +1,15 @@
+subject_id,period_of_day,gender,glasses
+person_0,night,female,no_glasses
+person_4,day,female,glasses
+person_7,night,male,no_glasses
+person_8,day,female,glasses
+person_9,day,female,no_glasses
+person_10,night,female,glasses
+person_13,night,female,glasses
+person_1,night,male,glasses
+person_2,day,male,no_glasses
+person_3,day,female,glasses
+person_11,day,male,no_glasses
+person_5,day,male,glasses
+person_6,day,male,glasses
+person_12,day,male,glasses
